@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51893141298",
+    "firebase_url": "https://firsttestapp-44d52-default-rtdb.firebaseio.com",
+    "project_id": "firsttestapp-44d52",
+    "storage_bucket": "firsttestapp-44d52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51893141298:android:3101fba76cf480ed88612b",
+        "android_client_info": {
+          "package_name": "com.tugas.firsttestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51893141298-4m6vhlmeupf0k2m34n9fea3s4csakok3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMflulRCUoc4PjVn-s1cyd6FG5gkHI0X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51893141298-4m6vhlmeupf0k2m34n9fea3s4csakok3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
